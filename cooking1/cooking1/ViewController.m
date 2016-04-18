@@ -21,6 +21,7 @@
 
 - (void)yewang {
     NSLog(@"yewang第一次上传");
+    NSLog(@"yewang第二次上传");
 }
 
 - (void)didReceiveMemoryWarning {
