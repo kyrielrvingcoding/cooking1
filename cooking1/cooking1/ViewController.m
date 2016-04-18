@@ -19,6 +19,10 @@
     NSLog(@"奶嘴第一次上传");
 }
 
+- (void)yewang {
+    NSLog(@"yewang第一次上传");
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
