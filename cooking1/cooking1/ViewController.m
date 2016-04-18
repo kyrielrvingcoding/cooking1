@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"奶嘴第一次上传");
     NSLog(@"奶嘴第二次上传");
+    NSLog(@"miao");
 }
 
 - (void)yewang {
